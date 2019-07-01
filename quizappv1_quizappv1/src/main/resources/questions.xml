@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QuestionsList>
+    <Question>
+        <id>1</id>
+        <questionText>Who invented Java Programming language?</questionText>
+        <choices>
+            <choice id="1" value="Bjanrnee Stroustrap"></choice>
+            <choice id="2" value="Yukihiro Matsumoto"></choice>
+            <choice id="3" value="James Gosling"></choice>
+        </choices>
+    </Question>
+    <Question>
+        <id>2</id>
+        <questionText>Who invented Java Programming language?</questionText>
+        <choices>
+            <choice id="1" value="Bjanrnee Stroustrap"></choice>
+            <choice id="2" value="Yukihiro Matsumoto"></choice>
+            <choice id="3" value="James Gosling"></choice>
+        </choices>
+    </Question>
+</QuestionsList>

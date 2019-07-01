@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:27:24 +0530] "GET /quizapp HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:27:27 +0530] "GET /quizapp/ HTTP/1.1" 200 448 http-bio-8080-exec-3 2526
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:27:27 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:27:32 +0530] "GET /quizapp/quiz-form? HTTP/1.1" 200 9623 http-bio-8080-exec-5 703
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:28:55 +0530] "POST /quizapp/quiz-form? HTTP/1.1" 200 1053 http-bio-8080-exec-8 492
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:28:58 +0530] "GET /quizapp/show-results? HTTP/1.1" 200 2223 http-bio-8080-exec-9 431
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:29:04 +0530] "GET /quizapp/quiz-form? HTTP/1.1" 200 9623 http-bio-8080-exec-10 25
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:36:45 +0530] "POST /quizapp/quiz-form? HTTP/1.1" 200 1053 http-bio-8080-exec-4 62
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:36:47 +0530] "GET /quizapp/show-results? HTTP/1.1" 200 2223 http-bio-8080-exec-4 21

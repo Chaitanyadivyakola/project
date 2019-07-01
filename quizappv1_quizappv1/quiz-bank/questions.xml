@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QuestionsList>
+    <Question>
+        <id>1</id>
+        <questionText>Who invented Java Programming language?</questionText>
+        <correctAnswer>c</correctAnswer>
+        <choices>
+            <choice id="a" value="Bjanrnee Stroustrap"></choice>
+            <choice id="b" value="Yukihiro Matsumoto"></choice>
+            <choice id="c" value="James Gosling"></choice>
+            <choice id="d" value="Dennis Ritchie"></choice>
+        </choices>
+    </Question>
+    <Question>
+        <id>2</id>
+        <questionText>What is the default value of Boolean variable?</questionText>
+        <correctAnswer>b</correctAnswer>
+        <choices>
+            <choice id="a" value="true"></choice>
+            <choice id="b" value="false"></choice>
+            <choice id="c" value="null"></choice>
+            <choice id="d" value="not defined"></choice>
+        </choices>
+    </Question>
+    <Question>
+        <id>3</id>
+        <questionText>What is a transient variable?</questionText>
+        <correctAnswer>b</correctAnswer>
+        <choices>
+            <choice id="a" value="A transient variable is a variable which is serialized during Serialization."></choice>
+            <choice id="b" value="A transient variable is a variable that may not be serialized during Serialization."></choice>
+            <choice id="c" value="A transient variable is a variable which is to be marked as serializable."></choice>
+            <choice id="d" value="None of the above"></choice>
+        </choices>
+    </Question>
+    <Question>
+        <id>4</id>
+        <questionText>Which Set class should be most popular in a multi-threading environment, considering performance constraint?</questionText>
+        <correctAnswer>b</correctAnswer>
+        <choices>
+            <choice id="a" value="HashSet"></choice>
+            <choice id="b" value="ConcurrentSkipListSet"></choice>
+            <choice id="c" value="LinkedHashSet"></choice>
+            <choice id="d" value="CopyOnWriteArraySet"></choice>
+        </choices>
+    </Question>
+    <Question>
+        <id>5</id>
+        <questionText>Which allows the removal of elements from a collection?</questionText>
+        <correctAnswer>d</correctAnswer>
+        <choices>
+            <choice id="a" value="Enumeration"></choice>
+            <choice id="b" value="Iterator"></choice>
+            <choice id="c" value="Both"></choice>
+            <choice id="d" value="None of the above"></choice>
+        </choices>
+    </Question>
+</QuestionsList>
